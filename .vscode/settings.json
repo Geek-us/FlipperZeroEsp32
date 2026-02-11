@@ -1,0 +1,18 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.openOcdConfigs": [
+    "board/esp32c5-builtin.cfg"
+  ],
+  "idf.port": "/dev/tty.usbserial-1320",
+  "idf.currentSetup": "/Users/Gray/espidf/esp-idf_5_5_2/v5.5.2/esp-idf",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32c5"
+  },
+  "clangd.path": "/Users/Gray/espidf/esp-idf_5_5_2/idf_tools/tools/esp-clang/esp-19.1.2_20250312/esp-clang/bin/clangd",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=/Users/Gray/Desktop/blink/build"
+  ],
+  "idf.flashType": "UART"
+}
