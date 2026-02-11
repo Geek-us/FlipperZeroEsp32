@@ -20,7 +20,7 @@ This project is created from code at:
 
 ### ESP32
 
-To run Jetpack, you need an ESP32 dev board (e.g. Wemos D1 Mini, ESP32-WROVER Kit) or ESP32 core board (e.g. ESP32-DevKitC).
+To run Jetpack, you need an ESP32 dev board (e.g. Wemos D1 Mini, ESP32-WROVER Kit) or ESP32 core board (e.g. ESP32-DevKitC,ESP32C5-DevKitC).
 The ESP32 must have `4 MB` of SPI flash memory on board.
 
 ### Display
