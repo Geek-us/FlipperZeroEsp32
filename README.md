@@ -1,6 +1,6 @@
 # Flipper Zero for ESP32
 
-**该项目受https://github.com/KenVanHoeylandt/FlipperZeroEsp32启发**
+**该项目启发于https://github.com/KenVanHoeylandt/FlipperZeroEsp32**
 
 This project is created from code at:
 - [Flipper Zero Firmware](https://github.com/flipperdevices/flipperzero-firmware/)
